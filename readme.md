@@ -1,1 +1,1 @@
-cs 229 machine learning homework
+cs 229 machine learning homework and project
